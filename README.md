@@ -1,5 +1,14 @@
 # EasyStats
 
+## 🔗 Faça o Download do EasyStats Agora!
+👉 Clique aqui para baixar o EasyStats!
+
+📢 Atenção!
+Por ser um executável criado por um desenvolvedor independente, seu antivírus pode exibir um falso positivo. Isso é comum em programas recém-criados e seguros como este.
+
+✅ Garantimos que o EasyStats é seguro e livre de vírus.
+Caso veja o aviso, você pode permitir o download e execução sem preocupações. 🚀
+
 # Cálculos Estatísticos em Java
 
 ## Sobre o Projeto
