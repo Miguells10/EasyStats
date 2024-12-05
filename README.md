@@ -1,4 +1,4 @@
-# Projeto-Estatistica
+# EasyStats
 
 # Cálculos Estatísticos em Java
 
